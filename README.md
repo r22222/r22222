@@ -1,7 +1,7 @@
-Hi there, I'm Rocky Cowan 👋  
+## Hi there, I'm Rocky Cowan 👋  
 I'm a full stack developer and recent CS graduate from Oregon State University. I love building web tools, experimenting with game dev, and working at the intersection of code and real-world systems.
 
-### 🔧 Technical Skills
+## 🔧 Technical Skills
 - **Languages:** Python, C, C++, JavaScript, SQL, x86 ASM  
 - **Frameworks:** React, Node.js, Flask, Laravel  
 - **Tools:** Git, GitHub, Docker, Excel (VBA), MySQL  
